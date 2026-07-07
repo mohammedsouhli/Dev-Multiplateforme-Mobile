@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="hint_ville">Ville</string>
+    <string name="btn_rechercher">Rechercher</string>
+    <string name="erreur_ville_vide">Veuillez saisir une ville</string>
+    <string name="erreur_ville_introuvable">Ville introuvable</string>
+    <string name="erreur_connexion">Erreur de connexion</string>
+</resources>
