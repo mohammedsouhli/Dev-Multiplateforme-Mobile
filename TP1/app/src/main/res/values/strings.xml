@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC App</string>
+
+    <string name="label_poids">Poids</string>
+    <string name="label_taille">Taille</string>
+    <string name="unit_kg">Kg</string>
+    <string name="unit_cm">Cm</string>
+    <string name="hint_poids">87</string>
+    <string name="hint_taille">177</string>
+    <string name="btn_calculer">Calculer IMC</string>
+
+    <string name="resultat_imc">Votre IMC est: %1$.2f</string>
+    <string name="erreur_saisie">Veuillez saisir des valeurs valides</string>
+
+    <string name="cat_maigreur">Maigreur</string>
+    <string name="cat_normal">Normal</string>
+    <string name="cat_surpoids">Surpoids</string>
+    <string name="cat_obese">Obésité</string>
+    <string name="cat_obese_severe">Obésité sévère</string>
+</resources>
